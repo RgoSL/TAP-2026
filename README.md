@@ -15,4 +15,9 @@ Algumas classes com POO simples para relembrar o uso prático de Java.
 - 💿 [Review Java](https://github.com/RgoSL/TAP-2026/tree/Ativ00) 
 <br>
 
+### 🪞 Exemplo de POO
+Algumas classes com POO desenvolvidas em aula.
+- 🪞 [Escola POO](https://github.com/RgoSL/TAP-2026/tree/Ativ01) 
+<br>
+
 ---
