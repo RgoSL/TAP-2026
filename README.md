@@ -2,22 +2,28 @@
 
 <br>
 
-## 🤓 Descrição
+## 🤓 Descrição  
 
 > Matéria focada no desenvolvimento de aplicações seguindo o paradigma de Programação Orientada a Objetos e integração limpa com interfaces.
 
+> Essa branch é dedicada as atividades realizadas no segundo módulo do ano letivo.
+
 <br>
 
-## 📇 Atividades do Repositório :
+## 📇 Atividades da Branch :
 
-### 💿 Review de Sintaxe
-Algumas classes com POO simples para relembrar o uso prático de Java.
-- 💿 [Review Java](https://github.com/RgoSL/TAP-2026/tree/Ativ00) 
+### 💾 Atividade Drive JDBC
+Programa utilizado para testar como é feita a conexão MySQL com o Java via JDBC.
+- 💾 [JDBC](https://github.com/RgoSL/TAP-2026/tree/2%C2%BASem/ativjdbc) 
 <br>
 
-### 🪞 Exemplo de POO
-Algumas classes com POO desenvolvidas em aula.
-- 🪞 [Escola POO](https://github.com/RgoSL/TAP-2026/tree/Ativ01) 
+### 🍃 Atividade SpringBoot Inicial
+Iniciação ao uso de SpringBoot passando mensagens via URL.
+- 🍃 [SpringBoot](https://github.com/RgoSL/TAP-2026/tree/2%C2%BASem/helloSpring) 
 <br>
+
+### 🧬 Atividade Strategy
+Calculadora Java para compreender como diferentes comportamentos podem ser organizados em classes separadas.
+- 🧬 [GoF](https://github.com/RgoSL/TAP-2026/tree/2%C2%BASem/projetoStrategy) 
 
 ---
