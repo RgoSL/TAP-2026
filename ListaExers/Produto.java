@@ -1,4 +1,4 @@
-package Exer01;
+// Exercício 01 da Lista
 
 public class Produto {  // Encapsulamento Dos Atributos da Classe
     private String nome;
