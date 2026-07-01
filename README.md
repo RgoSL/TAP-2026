@@ -8,16 +8,20 @@
 
 <br>
 
-## 📇 Atividades do Repositório :
+## 📇 Branchs do Repositório :
 
-### 💿 Review de Sintaxe
+### 🛋️ 1º Módulo
+Nessa branch estão reunidas as atividades realizadas durante o primeiro módulo do ano letivo de 2026.
+- 🛋️ [1ºMod](https://github.com/RgoSL/TAP-2026/tree/1%C2%BAMod) 
+<br>
+
+### 🍃 2º Módulo
+Nessa branch estão reunidas as atividades realizadas durante o segundo módulo do ano letivo de 2026.
+- 🍃 [2ºMod](https://github.com/RgoSL/TAP-2026/tree/2%C2%BAMod) 
+<br>
+
+### 💿 Atividade 00
 Algumas classes com POO simples para relembrar o uso prático de Java.
-- 💿 [Review Java](https://github.com/RgoSL/TAP-2026/tree/Ativ00) 
-<br>
-
-### 🪞 Exemplo de POO
-Algumas classes com POO desenvolvidas em aula.
-- 🪞 [Escola POO](https://github.com/RgoSL/TAP-2026/tree/Ativ01) 
-<br>
-
+- 💿 [Ativ00](https://github.com/RgoSL/TAP-2026/tree/Ativ00)
+  
 ---
